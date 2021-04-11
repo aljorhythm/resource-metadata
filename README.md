@@ -1,2 +1,3 @@
 # resource-metadata
-microservice that provides metadata of resources
+
+provides metadata of resources
