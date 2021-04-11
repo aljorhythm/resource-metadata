@@ -1,0 +1,19 @@
+{
+  "name": "resource-metadata",
+  "version": "1.0.0",
+  "description": "retrieves resource metadata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aljorhythm/resource-metadata.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aljorhythm/resource-metadata/issues"
+  },
+  "homepage": "https://github.com/aljorhythm/resource-metadata#readme"
+}
